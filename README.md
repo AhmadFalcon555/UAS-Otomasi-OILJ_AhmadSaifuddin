@@ -1,2 +1,5 @@
 # UAS-Otomasi-OILJ_AhmadSaifuddin
- repository hasil pengerjaan tugas ujian 
+
+Nama : Ahmad Saifuddin
+NIM : 195150200111038
+
